@@ -1,4 +1,4 @@
-# AI Summarizer
+# AI Semantic Summarization
 
 
 An AI-powered article summarizer built with **React.js**, **TailwindCSS (v3)**, and **RapidAPI**. This tool extracts and condenses long-form content into concise summaries using OpenAI's GPT-based summarization API. It also stores a history of previously summarized articles, allowing users to revisit and copy past URLs easily.
