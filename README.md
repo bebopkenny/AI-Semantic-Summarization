@@ -3,6 +3,7 @@
 
 An AI-powered article summarizer built with **React.js**, **TailwindCSS (v3)**, and **RapidAPI**. This tool extracts and condenses long-form content into concise summaries using OpenAI's GPT-based summarization API. It also stores a history of previously summarized articles, allowing users to revisit and copy past URLs easily.
 
+![AI Summarizer](https://cdn.discordapp.com/attachments/1299155448959598595/1343477976150315018/Screenshot_2025-02-23_220255.png?ex=67bd6ade&is=67bc195e&hm=0e350816b5f948e38ce1b0feafbbdac28da1e3d54db5f06c759e35ecc1920c80&)
 ---
 
 ### Live Demo
