@@ -3,6 +3,12 @@
 
 An AI-powered article summarizer built with **React.js**, **TailwindCSS (v3)**, and **RapidAPI**. This tool extracts and condenses long-form content into concise summaries using OpenAI's GPT-based summarization API. It also stores a history of previously summarized articles, allowing users to revisit and copy past URLs easily.
 
+---
+
+### Live Demo
+You can view the live demo of this project here: [summarizer.kennygarcia.net](https://summarizer.kennygarcia.net)
+
+---
 
 ## 🚀 Features
 
@@ -13,6 +19,7 @@ An AI-powered article summarizer built with **React.js**, **TailwindCSS (v3)**, 
 - 🎨 **Modern UI** – Styled with TailwindCSS for a sleek and responsive design.
 - ⚡ **Fast Performance** – Built with Vite for optimized speed and efficiency.
 
+---
 
 ## 🖥️ Tech Stack
 
@@ -22,9 +29,9 @@ An AI-powered article summarizer built with **React.js**, **TailwindCSS (v3)**, 
 - **Build Tool:** Vite
 - **Storage:** Local Storage for saving user history
 
+---
 
 ## 📂 Project Structure
-
 
 ```bash
 AI-Summarizer/
@@ -42,6 +49,7 @@ AI-Summarizer/
 │── README.md           # Project documentation
 ```
 
+---
 
 ## 🔧 Installation & Setup 
 1. Clone the repository:
@@ -64,6 +72,7 @@ AI-Summarizer/
    npm run dev
    ```
 
+---
 
 ## 📌 Usage
 1. Enter a URL in the input field.
@@ -71,6 +80,7 @@ AI-Summarizer/
 3. The summarized text will be displayed below.
 4. Previously summarized URLs are saved in local storage for easy access.
 
+---
 
 ## 🛠️ Deployment
 To build project for production:
@@ -79,10 +89,22 @@ To build project for production:
   ```
 To deploy on Netlify, Vercel, or any static hosting platform, upload the ```dist/``` folder.
 
+---
 
 ## 📝 License
 This project is open-source under the **MIT License**.
 
+---
 
 ## 💡 Contributions & Suggestions are Welcome!
 If you have ideas to improve the project, feel free to submit a pull request or open an issue.
+
+---
+## 📧 Contact
+
+For any inquiries or feedback, please reach out:
+
+- **Name**: Kenny Garcia
+- **LinkedIn**: [linkedin.com/in/kennygarcia15](https://linkedin.com/in/kennygarcia15/)
+- **Portfolio**: [kennygarcia.net](https://kennygarcia.net)
+- **Email**: [kennygarcia15@yahoo.com](mailto:kennygarcia15@yahoo.com)
