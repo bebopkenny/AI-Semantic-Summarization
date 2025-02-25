@@ -11,18 +11,18 @@ You can view the live demo of this project here: [summarizer.kennygarcia.net](ht
 
 ---
 
-## 🚀 Features
+## Features
 
 
-- 🌐 **AI-Powered Summarization** – Uses GPT-based API to generate summaries.
-- 📝 **URL History Tracking** – Stores previously entered URLs in local storage.
-- 📋 **Easy Copy & Paste** – Quickly access and reuse past URLs.
-- 🎨 **Modern UI** – Styled with TailwindCSS for a sleek and responsive design.
-- ⚡ **Fast Performance** – Built with Vite for optimized speed and efficiency.
+-  **AI-Powered Summarization** – Uses GPT-based API to generate summaries.
+-  **URL History Tracking** – Stores previously entered URLs in local storage.
+-  **Easy Copy & Paste** – Quickly access and reuse past URLs.
+-  **Modern UI** – Styled with TailwindCSS for a sleek and responsive design.
+-  **Fast Performance** – Built with Vite for optimized speed and efficiency.
 
 ---
 
-## 🖥️ Tech Stack
+## Tech Stack
 
 
 - **Frontend:** React.js, TailwindCSS (v3)
@@ -32,7 +32,7 @@ You can view the live demo of this project here: [summarizer.kennygarcia.net](ht
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```bash
 AI-Summarizer/
@@ -52,7 +52,7 @@ AI-Summarizer/
 
 ---
 
-## 🔧 Installation & Setup 
+## Installation & Setup 
 1. Clone the repository:
   ```sh
   git clone https://github.com/your-username/ai-summarizer.git
@@ -75,7 +75,7 @@ AI-Summarizer/
 
 ---
 
-## 📌 Usage
+## Usage
 1. Enter a URL in the input field.
 2. Click the submit button to generate a summary.
 3. The summarized text will be displayed below.
@@ -83,7 +83,7 @@ AI-Summarizer/
 
 ---
 
-## 🛠️ Deployment
+## Deployment
 To build project for production:
   ```sh
   npm run build
@@ -92,16 +92,16 @@ To deploy on Netlify, Vercel, or any static hosting platform, upload the ```dist
 
 ---
 
-## 📝 License
+## License
 This project is open-source under the **MIT License**.
 
 ---
 
-## 💡 Contributions & Suggestions are Welcome!
+## Contributions & Suggestions are Welcome!
 If you have ideas to improve the project, feel free to submit a pull request or open an issue.
 
 ---
-## 📧 Contact
+## Contact
 
 For any inquiries or feedback, please reach out:
 
